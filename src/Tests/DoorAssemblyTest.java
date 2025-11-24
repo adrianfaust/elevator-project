@@ -1,6 +1,6 @@
 package Tests;
 
-import Components.DoorAssembly;
+import ElevatorController.DoorAssembly;
 import Message.Message;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

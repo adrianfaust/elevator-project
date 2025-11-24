@@ -1,4 +1,4 @@
-package Components;
+package ElevatorController;
 
 import Bus.SoftwareBus;
 import Message.Message;
