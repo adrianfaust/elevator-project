@@ -1,6 +1,6 @@
 package Tests;
 
-import Components.Notifier;
+import ElevatorController.Notifier;
 import Message.Message;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

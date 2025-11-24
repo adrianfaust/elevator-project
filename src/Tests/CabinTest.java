@@ -1,6 +1,6 @@
 package Tests;
 
-import Components.Cabin;
+import ElevatorController.Cabin;
 import Message.Message;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
